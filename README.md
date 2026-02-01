@@ -283,7 +283,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 If you find VaultPlayer useful, consider supporting its development:
 
-**<https://buymeacoffee.com/avvault>**
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alexer)
 
 ## Contributing
 
